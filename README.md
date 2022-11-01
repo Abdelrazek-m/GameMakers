@@ -1,8 +1,8 @@
 # GameMakers
 ## Hello my Friend
-this repo contains some of my team projects in **Software Engineering Hackathon by Orange Digital Center Egypt and AMIT**
-My team leader is *Zyad Bahaa*
-My team members:- 
-                *Abdullah Kamal
-                Hussam Hassan
-                Abdelrazek Mahmoud*
+this repo contains some of my team projects in **Software Engineering Hackathon by Orange Digital Center Egypt and AMIT**<br>
+My team leader is *Zyad Bahaa*<br>
+My team members:- <br>
+                *Abdullah Kamal<br>
+                Hussam Hassan<br>
+                Abdelrazek Mahmoud*<br>
